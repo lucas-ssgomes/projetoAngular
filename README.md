@@ -2,9 +2,9 @@
 
 Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
-## Development server
+## Servidor de desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Use o comando `ng serve` para o dev server. Navegavel em `http://localhost:4200/`. Esse aplicativo vai recarregar automaticamente, se você fizer alguma mudança nos arquivos.
 
 ## Code scaffolding
 
