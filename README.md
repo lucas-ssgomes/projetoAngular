@@ -1,8 +1,5 @@
 # Primeiro Projeto
 
-<<<<<<< HEAD
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
-=======
 Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
 ## Servidor de desenvolvimento
@@ -11,21 +8,20 @@ Use o comando `ng serve` para o dev server. Navegavel em `http://localhost:4200/
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name` para gerar um novo component. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Construir
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build` para construir o projeto. O construtor dos artefatos vão ser armazenados no `dist/` diretorio. Use o `--prod` flag para criar o construtor.
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` para executar os testes unitarios via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` para executar o end-to-end testes via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
->>>>>>> 7322094cce58dc171fd141d1a9d7d73874b665b2
+Para ter mais informações com o Angular CLI use `ng help` ou veja no [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
